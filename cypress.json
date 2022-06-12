@@ -1,0 +1,7 @@
+{
+
+"baseUrl":"https://buscacepinter.correios.com.br/",
+"execTimeout":70000,
+"video": true
+
+}
